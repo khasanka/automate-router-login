@@ -1,4 +1,4 @@
-# automate-router-login
+# automate-router-login-using-puppeteer
 This program was written in node.js to scrape router login page and  get connected user details and save it into text file.
 
 To run this script you need to install nodejs use it's official web site to download it https://nodejs.org/en/
